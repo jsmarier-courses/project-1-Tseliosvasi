@@ -18,4 +18,5 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 4. I changed the footer colour to black in my biography
 5. I used a font size of 20px on my heading.
 6. I changed the paragraph font colour to black
-7.
+7. I changed the current page link colour to orange
+8. I changed the top menu colour to a lighter purple rather than the deep blue
