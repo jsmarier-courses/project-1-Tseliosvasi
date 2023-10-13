@@ -12,9 +12,9 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 
 ##CSS:
 
-1. I used crimson as a colour for my h1 headings.
-2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
-3. I changed the background colour from whitesmoke to darkblue.
+1. I changed the height of the footer to 250px
+2. I changed the width of the picture in my biography to 700px
+3. I changed the height of the picture in my biography to 800px
 4. J'ai mis Arial comme police par défaut pour tous les paragraphes.
 5. I used a font size of 18px in my paragraphs.
 6. Etc.
