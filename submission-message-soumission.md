@@ -20,3 +20,4 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 6. I changed the paragraph font colour to black
 7. I changed the current page link colour to orange
 8. I changed the top menu colour to a lighter purple rather than the deep blue
+9. Changed the font size of the paragraph to 18px
