@@ -16,5 +16,5 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 2. I changed the width of the picture in my biography to 700px
 3. I changed the height of the picture in my biography to 800px
 4. I changed the footer colour to black in my biography
-5. I used a font size of 18px in my paragraphs.
+5. I used a font size of 20px on my heading.
 6. Etc.
