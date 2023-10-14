@@ -26,3 +26,4 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 12. Added a new ruleset for the spotify picture
 13. copied all the declarations from the first img
 14. scaled it down a little so it did not take up so much space (0.8)
+15. Adjusted the height and width settings for the spotify podcast picture

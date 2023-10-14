@@ -73,7 +73,7 @@ body {
     margin: auto;
     width: 750px;
     height: 750px;
-    scale: 0.8;
+    scale: 0.9;
     
 }
 
@@ -90,9 +90,12 @@ body {
 .main-section figure, .main-section img {
     display: block;
     margin: auto;
-    width: 700px;
-    height: 800px;
+    width: 600px;
+    height: 600px;
     
+}
+.main-section figcaption {
+    margin: auto;
 }
 
 .footer {
