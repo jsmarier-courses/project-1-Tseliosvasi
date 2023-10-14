@@ -68,6 +68,13 @@ body {
     z-index: 1;
 }
 
+.spotify_pic {
+    display: block;
+    margin: auto;
+    width: 700px;
+    height: 800px;
+}
+
 .main-section {
     padding: 10px 20px 10px 20px;
     color:#000000;
