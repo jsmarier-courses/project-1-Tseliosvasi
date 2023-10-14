@@ -23,3 +23,6 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 9. Changed the font size of the paragraph to 18px
 10. Changed the hover colour of the menu to orange
 11. Changed the colour of the logo to match the colour of the menu
+12. Added a new ruleset for the spotify picture
+13. copied all the declarations from the first img
+14. scaled it down a little so it did not take up so much space (0.8)

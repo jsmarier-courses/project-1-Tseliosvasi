@@ -71,8 +71,10 @@ body {
 .spotify_pic {
     display: block;
     margin: auto;
-    width: 700px;
+    width: 600px;
     height: 800px;
+    scale: 0.8;
+    
 }
 
 .main-section {
