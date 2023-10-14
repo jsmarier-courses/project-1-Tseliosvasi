@@ -22,3 +22,4 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 8. I changed the top menu colour to a lighter purple rather than the deep blue
 9. Changed the font size of the paragraph to 18px
 10. Changed the hover colour of the menu to orange
+11. Changed the colour of the logo to match the colour of the menu
