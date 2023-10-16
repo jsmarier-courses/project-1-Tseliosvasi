@@ -28,3 +28,7 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 14. scaled it down a little so it did not take up so much space (0.8)
 15. Adjusted the height and width settings for the spotify podcast picture
 16. Added a ruleset for the captions of the pictures
+
+URL of my website: https://jsmarier-courses.github.io/project-1-Tseliosvasi/biography.html
+Name: Vasileios Tselios
+Special note: All the validation services checked up just fine, instead for the 3rd_website.html as the markup services did not like the Spotify iframe I imported straight from Spotify, for some reason.
